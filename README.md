@@ -1,4 +1,3 @@
 # hand-gesture-video-controller
-Developed a real-time translation tool for text, voice, images, and documents. 
-Utilized the Google Translate API, Tesseract OCR, and gTTS. The tool includes a Tkinter GUI and supports various file types. 
-Implemented threading for enhanced responsiveness.
+Developed a hand gesture-based video controller using computer vision techniques by implementing real-time gesture recognition with OpenCV and CNN-based models
+Achieved 99.1% accuracy, enabling seamless play, pause, and volume control.
